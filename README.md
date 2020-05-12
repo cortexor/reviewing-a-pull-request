@@ -13,4 +13,4 @@ To play the game:gg g g g
 
 This fun open soug g g g rce game was cloned from: https://github.com/jakesgordon/javascript-tetris
 
-It is need to be editedfffffff
+It is need to be editedfffffffwerwer
